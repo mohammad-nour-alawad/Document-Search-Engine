@@ -1,5 +1,7 @@
 # Document-Search-Engine
 
+**Semantic-similarity-based Search Engine.**
+
 If you want to use this web app, you must:
 
 -> run the Flask API Server on Colab.
